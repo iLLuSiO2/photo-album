@@ -9,7 +9,7 @@ function Header() {
           <li><a href="#news">News</a></li>
           <li><a href="#contact">Contact</a></li>
           <li><a href="#about">About</a></li>
-          <li><a><PersonOutlineIcon /></a></li>
+          <li><a href="#news"><PersonOutlineIcon /></a></li>
         </ul>
         
       </div>
