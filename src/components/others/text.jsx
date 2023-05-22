@@ -1,0 +1,6 @@
+
+
+const text1 = "Even though I make fun of your job, deep down I know that u really talented. I can feel the efforts and hardwork that took for u reach this level. You might be extremely stressed about getting a fine job or what your family is gonna choose as your suitable partner. Just know that God is writing his grace on your book. Even if you choose a job which profits you the most or think that being with some guy will benefit you more than the other, just know that our choices cannot decide the future. Your Expectations can totally be flipped, your trust can totally be shattered and your life can totally be ruined. So do not worry about things that you have no control over, dont be stressed or scared about the future that u cannot decide. Just have faith in God. You always gave your 100% to praise his name, that may be getting up early in the morning or all the works in the VBS, you always gave your best. So, all your works for him will give you your due blessings. As for your job, I know that somehow U r gonna build a huge clinic besides your house as you always wanted. Dont think your marraige or anything will stop you from that. One way or another you are gonna achieve your dreams since you are MY BAE.";
+
+export default text1;
+
