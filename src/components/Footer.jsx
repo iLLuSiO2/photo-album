@@ -15,7 +15,7 @@ return (
 				textAlign: "center",
 				marginTop: "-50px",
 				marginBottom: "50px" }}>
-			I wanted to finish this before your Birthday! But I couldn't. No matter what happens, lets stay the same!
+			I wanted to finish this before your Birthday! But I couldn't. No matter what happens, lets stay the same! 💘
 	</h1>
 	<Container>
 		<Row>

@@ -18,7 +18,7 @@ function Moments(){
         <div className="moments_row">
             <Row className="f_moments">
                 <Col md={6}>
-                    <h1>STOP STRESSING, GOD IS WORKING</h1>
+                    <h1>STOP STRESSING, GOD IS WORKING </h1>
                     <p>{text1}</p>
                 </Col>
                 <Col md={6}>
@@ -30,6 +30,7 @@ function Moments(){
                     <img align="right" id="first_img" src={img2} alt="Cute" />
                 </Col>
                 <Col md={6}>
+                    <h1>YOUR WEAKNESS DOES NOT DEFINE YOU!</h1>
                     <p>{text2}</p>
                 </Col>
                 

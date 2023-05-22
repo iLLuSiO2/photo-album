@@ -12,8 +12,8 @@ function Home(){
             
             <Row className="mx-auto">
                 <Col className="Home_main" md={6}><h1 className="main_text">
-                    <span className="first_text">BELATED</span> HAPPY BIRTHDAY</h1>
-                    <p className="p_text">Abisha S</p>
+                    <span className="first_text">BELATED</span> HAPPY BIRTHDAY 🎂</h1>
+                    <p className="p_text">Abisha S 💚💙</p>
                 </Col>
                 <Col md={6}><img align="right" id="first_img" src={logo} alt="Cute" /></Col>
             </Row>
